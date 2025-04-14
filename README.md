@@ -27,6 +27,7 @@
 
 ## Folder Structure
 
+```bash
 src/
 │
 ├── components/        # Reusable components (Card, Navbar, Signup, Signin, Categories, Brand, Wishlist, Home)
@@ -37,3 +38,4 @@ src/
 ├── App.js             # Main app component
 ├── App.css            # Main app styling
 └── index.js           # App entry point
+```
