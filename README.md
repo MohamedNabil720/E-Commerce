@@ -17,7 +17,7 @@
 - **React**
 - **Bootstrap 5**
 - **React Context API**
-- **React Query **
+- **React Query**
 - **HTML5 & CSS3**
 
 
