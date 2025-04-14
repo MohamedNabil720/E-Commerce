@@ -27,10 +27,13 @@
 
 ## Folder Structure
 
-src/ │ ├── components/ # Reusable components (Card, Navbar, Signup , Signin, Categories, Brand , Wishlist , Home ) 
-├── context/ # Context API logic 
-├── layout/ # MainLayout, AuthLayout
-├── assets/ # Images and icons
-├── ProtectedRoutes/ # ProtectedRoutes
-└── App.js # Main app component
-
+src/
+│
+├── components/        # Reusable components (Card, Navbar, Signup, Signin, Categories, Brand, Wishlist, Home)
+├── context/           # Context API logic
+├── layout/            # MainLayout, AuthLayout
+├── assets/            # Images and icons
+├── ProtectedRoutes/   # ProtectedRoutes
+├── App.js             # Main app component
+├── App.css            # Main app styling
+└── index.js           # App entry point
